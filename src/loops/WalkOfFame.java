@@ -25,6 +25,7 @@ public class WalkOfFame {
         rob.penUp();
         rob.move(80+10*i);
         rob.penDown();
+        rob.sparkle();
         }
 		// 3. Set the size of the star to 30.
 
